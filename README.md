@@ -17,17 +17,17 @@ For in-detail description about operations applied, read the [technical report](
 In these images it's possible to appreciate the result of Otsu thresholding and dilation application on original image, and compare the obtained result with the ground-truth.  
 **Frontal view**  
 <div align="center">
-  <img src="static/Frontal.JPG" alt="Frontal" width="80%"/>
+  <img src="static/Frontal.JPG" alt="Frontal" width="100%"/>
 </div>
 
 **Sagittal view**    
 <div align="center">
-  <img src="static/Sagittal.JPG" alt="Sagittal" width="80%"/>
+  <img src="static/Sagittal.JPG" alt="Sagittal" width="100%"/>
 </div>
 
 **Horizontal view**  
 <div align="center">
-  <img src="static/Horizontal.JPG" alt="Horizontal" width="80%"/>
+  <img src="static/Horizontal.JPG" alt="Horizontal" width="100%"/>
 </div>
 
 # 🚀 Usage
