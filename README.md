@@ -1,7 +1,7 @@
 # 🧠 Brain tumor segmentation with MATLAB - BraTS challenge
 Brain tumors, if detected early, can significantly increase the chances of successful treatment. However, manual interpretation of MRI images is time-consuming and prone to variability among radiologists. 
- 
-By applying Image Processing algorithms, this work aims to offer an additional tool to doctors for the tumor detection process.  
+
+By applying Image Processing algorithms, this work aims to offer an additional tool to doctors for the tumor detection process. This project also provides a solution for the Brain Tumor Segmentation (BraTS) Challenge hosted by the [medical decathlon](http://medicaldecathlon.com/).
 
 The methodology followed in this work is based on the procedure described in [this document](./static/Brain-Tumour-Extraction-from-MRI-Images-Using-MATLAB.pdf).
 
@@ -17,17 +17,17 @@ For in-detail description about operations applied, read the [technical report](
 In these images it's possible to appreciate the result of Otsu thresholding and dilation application on original image, and compare the obtained result with the ground-truth.  
 **Frontal view**  
 <div align="center">
-  <img src="static/Frontal.JPG" alt="Frontal" width="50%"/>
+  <img src="static/Frontal.JPG" alt="Frontal" width="80%"/>
 </div>
 
 **Sagittal view**    
 <div align="center">
-  <img src="static/Sagittal.JPG" alt="Sagittal" width="50%"/>
+  <img src="static/Sagittal.JPG" alt="Sagittal" width="80%"/>
 </div>
 
 **Horizontal view**  
 <div align="center">
-  <img src="static/Horizontal.JPG" alt="Horizontal" width="50%"/>
+  <img src="static/Horizontal.JPG" alt="Horizontal" width="80%"/>
 </div>
 
 # 🚀 Usage
