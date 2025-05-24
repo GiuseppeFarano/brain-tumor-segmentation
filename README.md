@@ -6,7 +6,7 @@ By applying Image Processing algorithms, this work aims to offer an additional t
 The methodology followed in this work is based on the procedure described in [this document](./static/Brain-Tumour-Extraction-from-MRI-Images-Using-MATLAB.pdf).
 
 
-## 📚 Main concepts applied in this work:
+## 📚 Main concepts applied in this work
 - Noise reduction using median filtering
 - Otsu Thresholding method
 - Morphological operations, dilation, to refine the segmented region  
